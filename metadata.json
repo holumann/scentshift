@@ -1,0 +1,6 @@
+{
+  "name": "ScentShift - Authentic Perfume & Preloved Marketplace",
+  "description": "Platform e-commerce parfum authentic (Brand New & Preloved terkurasi) dengan pemesanan instan WhatsApp dan panduan deploy Vercel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
